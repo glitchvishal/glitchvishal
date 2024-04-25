@@ -41,6 +41,9 @@
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" height="40" alt="Bootstrap" />
   <img width="12" />
+  <img src="https://media.zeemly.com/zeemly/product/material-ui.png" height="40" alt="Material UI" />
+  <img width="12"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" height="40" alt="TailWind" />
 </div>
 
 ###
