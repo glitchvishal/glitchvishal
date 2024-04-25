@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Rust<be> 📧 connect me on gmail <a href="mailto:vishu15singh@gmail.com">vishal@gmail.com </a><br>💬  Connect with me on <a href="https://www.linkedin.com/in/vishal-kumar-singh-25a77422a/">LinkedIn</a></p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Rust<br> 📧 connect me on gmail: <a href="mailto:vishu15singh@gmail.com">vishal@gmail.com </a><br>💬  Connect with me on <a href="https://www.linkedin.com/in/vishal-kumar-singh-25a77422a/">LinkedIn</a></p>
 
 ###
 
