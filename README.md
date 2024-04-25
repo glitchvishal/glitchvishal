@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Rust<br>🎯 Goals: to get a job in google<br>🎲 Fun fact: hardworking and honest</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Rust<br>🎯 Goals: to get a job in google<br>💬  Connect with me on <a href="https://www.linkedin.com/in/vishal-kumar-singh-25a77422a/">LinkedIn</a></p>
 
 ###
 
