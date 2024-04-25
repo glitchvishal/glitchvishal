@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Vishal and I'm a Frontend Developer</p>
+<p align="left">My name is<h3> Vishal</h3> and I'm a Frontend Developer</p>
 
 ###
 
