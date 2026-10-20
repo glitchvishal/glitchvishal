@@ -39,7 +39,7 @@
    <img width="12" />
   <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" height="40" alt="Sass" /> -->
   <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" height="40" alt="Bootstrap" />
+  <!-- <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" height="40" alt="Bootstrap" /> -->
   <img width="12" />
   <!-- <img src="https://media.zeemly.com/zeemly/product/material-ui.png" height="40" alt="Material UI" /> -->
   <img width="12"/>
